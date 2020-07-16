@@ -1,2 +1,0 @@
-# Scripting
- Juego de Karts
